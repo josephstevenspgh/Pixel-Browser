@@ -1,0 +1,94 @@
+body{
+		background-color:	rgb(180,180,180);
+}
+.Thumbnail{
+    height:             100px;
+    width:              100px;
+}
+
+.bodytext{
+		padding:		2px;
+		text-align:		center;
+
+		color:                  rgb(240,240,240);
+		background-color:	rgb(128,128,128);
+
+                border-style:           solid;
+                border-left-color:      rgb(140,140,140);
+                border-left-width:      medium;
+                border-top-color:       rgb(150,150,150);
+                border-top-width:       thick;
+                border-right-width:     thin;
+                border-bottom-color:    rgb(200,200,200);
+                border-bottom-width:    thin;
+                border-right-color:     rgb(220,220,220);
+}
+
+.TableDate{
+                text-align:             right;
+}
+
+.TableList{
+                width:                  100%;
+                padding:                0px;
+                border-spacing:         0px;
+
+		color:                  rgb(240,240,240);
+		background-color:	rgb(128,128,128);
+
+                text-align:             left;
+                table-layout:           fixed;
+}
+
+.TableRow0{
+		color:                  rgb(240,240,240);
+		background-color:	rgb(128,128,128);
+}
+
+.TableRow1{
+		color:                  rgb(240,240,240);
+		background-color:	rgb(100,100,100);
+
+}
+
+.listing{
+		position:		relative;
+		top:			2px;
+		padding:		2px;
+		text-align:		center;
+
+		color:                  rgb(240,240,240);
+		background-color:	rgb(128,128,128);
+
+                border-style:           solid;
+                border-left-color:      rgb(140,140,140);
+                border-left-width:      medium;
+                border-top-color:       rgb(150,150,150);
+                border-top-width:       thick;
+                border-right-width:     thin;
+                border-bottom-color:    rgb(200,200,200);
+                border-bottom-width:    thin;
+                border-right-color:     rgb(220,220,220);
+}
+
+a{
+		color:                  rgb(250,250,250);
+}
+
+a:hover{
+                font-style:             italic;
+		color:			rgb(250,250,200);
+}
+
+a:active{
+		color:			rgb(250,250,250);
+}
+
+a:visited{
+		color:                  rgb(190,190,190);
+}
+
+
+img[src$=".gif"] { image-rendering: -moz-crisp-edges; -ms-interpolation-mode: nearest-neighbor; }
+img[src$=".png"] { image-rendering: -moz-crisp-edges; -ms-interpolation-mode: nearest-neighbor; }
+
